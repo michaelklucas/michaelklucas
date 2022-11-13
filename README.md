@@ -24,6 +24,10 @@
 <br>
 <a><strong>SQL SERVER<strong></a>
 <br>
+<a><strong>LINUX<strong></a>
+<br>
+<a><strong>WINDOWS SERVER<strong></a>
+<br>
 </p>
 <p align="left" dir="auto">
   <a href="https://instagram.com/michael_klucas" alt="Instagram" rel="nofollow">
