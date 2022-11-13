@@ -7,7 +7,9 @@
 <p align="left" dir="auto">
 <h1>Software Skills</h1>
 <a><strong>PHP<strong></a>
- <br>
+<br>
+<a><strong>Tcl/Tk<strong></a>
+<br>
 <a><strong>JS<strong></a>
 <br>
 <a><strong>HTML5<strong></a>
@@ -17,6 +19,10 @@
 <a><strong>SASS<strong></a>
 <br>
 <a><strong>ADVPL<strong></a>
+<br>
+<a><strong>MYSQL<strong></a>
+<br>
+<a><strong>SQL SERVER<strong></a>
 <br>
 </p>
 <p align="left" dir="auto">
